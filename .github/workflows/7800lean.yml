@@ -32,9 +32,9 @@ env:
 
 jobs:
 
-  build_openwrt:
+  build:
 
-    name: 7800lean
+    
 
     runs-on: ubuntu-latest
 
