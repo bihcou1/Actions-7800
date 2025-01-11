@@ -34,7 +34,7 @@ jobs:
 
   build_openwrt:
 
-    name: Build OpenWrt Firmware
+    name: 7800lean
 
     runs-on: ubuntu-latest
 
