@@ -10,7 +10,7 @@
 
 
 
-name: OpenWrt Builder
+name: 7800lean
 
 on:
   repository_dispatch:
